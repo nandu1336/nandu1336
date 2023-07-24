@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nandu1336
 - 👀 I’m interested in backend development with python and node js.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nlp with deep learning
+- 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me nk732100@gmail.com
 
 <!---
